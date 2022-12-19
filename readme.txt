@@ -27,7 +27,8 @@ these programming chops, skills that can be employed in most programming languag
 environments. I hope that these fundamental skills are helpful for my future students and for all
 who stumble upon this series. 
 
-What follows is a tentative schedule for the series, I'll update as the series develops. 
+What follows is a tentative schedule for the series, I'll update as the series develops. Each of 
+these areas will have its own code example branch. 
 
 Pre-Programming:
 1.1  Problem decomposition, pseudocode, and flow diagrammes
