@@ -31,7 +31,8 @@ What follows is a tentative schedule for the series, I'll update as the series d
 these areas will have its own code example branch. 
 
 Pre-Programming:
-1.1  Problem decomposition, pseudocode, and flow diagrammes
+1.1  The challenge of programming (series introduction)
+1.2  Problem decomposition, pseudocode, and flow diagrammes
 
 Coding Basics:
 2.1  Blocks of code (basic anatomy of a computer program)
