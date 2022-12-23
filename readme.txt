@@ -1,5 +1,5 @@
 
-Pre-Programming: 1.1  The challenge of programming 
+Pre-Programming: 1.1  The challenge of programming (https://youtu.be/qAZjfTW2Am4)
 
 In this folder you will find the examples discussed in the introduction video:
 
