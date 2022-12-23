@@ -31,7 +31,7 @@ What follows is a tentative schedule for the series, I'll update as the series d
 these areas will have its own code example branch. 
 
 Pre-Programming:
-1.1  The challenge of programming (series introduction)
+1.1  The challenge of programming (series introduction) https://youtu.be/qAZjfTW2Am4
 1.2  Problem decomposition, pseudocode, and flow diagrammes
 
 Coding Basics:
