@@ -1,0 +1,16 @@
+THE GAME OF WAR (2 players)
+
+In the game of war each player starts with half of a shuffled deck of cards.
+
+Each round the players reveal the top card from their decks and the player with 
+the higher card places both cards face down under their deck.
+
+When both players reveal the same card (suits are irrelevant) then a WAR is 
+triggered where both players add three face down cards (or as many as they have
+remaining in their deck) to the revealed card and then reveals a fourth card, 
+the winner taking all of the cards into the bottom of their deck.
+
+Game play continues until one player has all of the cards. 
+
+======================
+
