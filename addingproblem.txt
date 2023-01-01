@@ -2,3 +2,8 @@ Problem: Adding two (2) numbers together.
 
 ===================
 
+1. Ask for the first number and remember it
+2. Ask for the second number and remember it
+3. Add the two numbers and remember the result
+4. Display the result to the user
+

@@ -14,3 +14,24 @@ Game play continues until one player has all of the cards.
 
 ======================
 
+SETUP THE GAME
+
+1. Create a deck of cards
+2. Shuffle the deck of cards 
+3. Deal half of the deck to each player
+
+RUN THE GAME
+
+4. Each player reveals their top card
+
+
+5. If the cards are the same value 
+
+    1. Each player discards three cards
+    2. Each player reveals their top card
+    3. Continue until there is a winner
+
+6. The winner takes the revealed cards and puts them on the bottom of their deck
+7. Continue until one player has all of the cards
+
+8. Declare a winner of the game
