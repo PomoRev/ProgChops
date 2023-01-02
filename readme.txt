@@ -32,7 +32,7 @@ these areas will have its own code example branch.
 
 Pre-Programming:
 1.1  The challenge of programming (series introduction) https://youtu.be/qAZjfTW2Am4
-1.2  Problem decomposition, pseudocode, and flow diagrammes
+1.2  Problem decomposition, pseudocode, and flow diagrammes https://youtu.be/1uhrXDWeSQg
 
 Coding Basics:
 2.1  Blocks of code (basic anatomy of a computer program)
