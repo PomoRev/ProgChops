@@ -1,14 +1,14 @@
 Welcome to the Programming Chops Series
 
 In this series I will focus on the core skills and concepts of coding for any language. 
-I have extensive experience teaching a variety of programming langauges (Assembly (ARM), C/C++, 
+I have extensive experience teaching a variety of programming languages (Assembly (ARM), C/C++, 
 JavaScript, Java, PHP, BASH, and others) for a variety of platforms (Linux, Windows, Apple, 
 Android, Web, etc.) and I enjoy helping students get a great start to their careers in development. 
 I started out teaching in the mid-90s with a private college, loved teaching but had not really
 worked much in the industry. Leaving a job I loved I leapt into a fairly traditional development 
 job - working with a language I had never seen (Lingo), in an environment I had not worked in 
 before (multimedia using Macromedia director), and I was hired as an expert in object oriented 
-programming. Having a solid foundation in programming languages made this transition quite managable.
+programming. Having a solid foundation in programming languages made this transition quite manageable.
 From there I worked in a variety of fields: Multimedia, Web, Enterprise, Project Management, and 
 at the end of that part of my career I was an Internet Security expert working with the government 
 as they deployed Public Key Infrastructures. It was at that point I managed to move back towards
@@ -49,7 +49,7 @@ Programming Chops:
 3.3  Commenting for sanity and sustainability
 3.4  Refactoring and clean code (making your future life easier)
 
-Development Pardigms:
+Development Paradigms:
 4.1  Compiling as assembling and linking
 4.2  Coding for an interpreter
 4.3  Debugging old school (manual tracing)
