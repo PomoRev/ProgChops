@@ -35,7 +35,7 @@ Pre-Programming:
 1.2  Problem decomposition, pseudocode, and flow diagrammes https://youtu.be/1uhrXDWeSQg
 
 Coding Basics:
-2.1  Blocks of code (basic anatomy of a computer program)
+2.1  Blocks of code (basic anatomy of a computer program) https://youtu.be/JxmOFY0GIvU
 2.2  Code branching (jumping around in the instructions)
 2.3  Code to test (working with your pseudocode)
 2.4  Variables (how the computer remembers things)
