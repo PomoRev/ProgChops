@@ -7,6 +7,8 @@
 
 #include <stdio.h>
 
+/* global variable */
+
 struct card {
     int value;
     int suit;
@@ -59,6 +61,8 @@ int main(){
     /* Create a deck of cards */ 
 
     setUpInitialDeck();
+
+    /* printf( "%d = i \n", i ); */
 
     testDeck ( deckOfCards );
 
