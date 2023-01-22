@@ -38,7 +38,7 @@ Coding Basics:
 2.1  Blocks of code (basic anatomy of a computer program) https://youtu.be/JxmOFY0GIvU
 2.2  Code branching (jumping around in the instructions) https://youtu.be/K6fW1Vk_pt4
 2.3  Code to test (working with your pseudocode) https://youtu.be/HXVuwu_4aQ0
-2.4  Variables (how the computer remembers things)
+2.4  Variables (how the computer remembers things) https://youtu.be/sDcUHeWqs8U
 2.5  Labelling conventions (writing code that makes sense)
 2.6  Conditional branching (how the computer makes decisions)
 2.7  Looping (doing the same things over and over again)
